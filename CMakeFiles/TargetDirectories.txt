@@ -1,2 +1,0 @@
-/home/runner/work/minizip/minizip/CMakeFiles/edit_cache.dir
-/home/runner/work/minizip/minizip/CMakeFiles/rebuild_cache.dir
